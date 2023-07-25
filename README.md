@@ -1,24 +1,6 @@
-# README
+# Ruby
+HoshinoRuby는 최근에 빠진 애니 주인공 이름
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+실제로 면접 때 레포 이름이 애니 캐릭터 이름맞나요? 라는 질문 받아봄
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[getting_started](https://rubykr.github.io/rails_guides/getting_started.html)
